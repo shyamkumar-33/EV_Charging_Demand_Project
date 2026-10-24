@@ -1,0 +1,2 @@
+Model,MAE,RMSE,TrainingObservations,TestingObservations
+Simple Exponential Smoothing,570.1388156589225,790.014432906521,292,74
